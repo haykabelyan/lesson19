@@ -16,3 +16,5 @@ git init
 git status
 git add .
 git add lab1.js
+git commit -a -m"First Commit"
+
